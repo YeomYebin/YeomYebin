@@ -1,9 +1,9 @@
 ## 👋 Hi there, This is Yebin's Github
 
 -  Sungkyunkwan University Statistics
--  PSAT 26th Datamining Team Member (2020-2)
--  PSAT 27th Time Series Analysis Team Leader (2021-1)
--  PSAT 28th President (2021-2)
+-  P-SAT 26th Datamining Team Member (2020-2)
+-  P-SAT 27th Time Series Analysis Team Leader (2021-1)
+-  P-SAT 28th President (2021-2)
 
 
   
