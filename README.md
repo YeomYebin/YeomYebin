@@ -1,4 +1,4 @@
-# 👋 Hi there, This is Yebin's Github
+## 👋 Hi there, This is Yebin's Github
 
 -  Sungkyunkwan University Statistics
 -  PSAT 26th Datamining Team Member (2020-2)
@@ -6,7 +6,8 @@
 -  PSAT 28th President (2021-2)
 
 
-
+  
+   
 ## 🛠 Tech Stack
 <p align="left"> Techs that I mainly use </p>
 <p align="left">
@@ -16,8 +17,8 @@
 </p>
 
 
-
-
+  
+  
 ## 🏆 Awards
 - LH 주관 2020년 국토도시 데이터 분석과제 (오산시 부문) 최우수(1등) 수상
 - ‘외부 요인을 고려한 암호화폐 수익률 예측 시스템’ 특허 출원
