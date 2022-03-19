@@ -1,7 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=✨Yebin's%20Github✨&fontAlign=50&fontAlignY=40&color=B59ECB&fontColor=FFFFFF&fontSize=50)
 ## 👋 Hi there, This is Yebin's Github
 
--  Sungkyunkwan University Statistics
+-  Sungkyunkwan University Statistics, Business Administration
 -  P-SAT 26th Datamining Team Member (2020-2)
 -  P-SAT 27th Time Series Analysis Team Leader (2021-1)
 -  P-SAT 28th President (2021-2)
